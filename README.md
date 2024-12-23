@@ -1,6 +1,10 @@
 This is a workaround for the following issues:
 
+* https://github.com/eclipse-elk/elk/issues/1108
 * https://github.com/eclipse-elk/elk/issues/859
+* https://github.com/plantuml/plantuml/issues/1942
+* https://github.com/plantuml/plantuml-server/issues/336
+* https://github.com/esteinberg/plantuml4idea/issues/359
 
 It contains changes submitted in this PR: 
 
